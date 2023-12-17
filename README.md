@@ -16,3 +16,10 @@ This script is designed to read a list of employee codes from an input file, app
 
    ```bash
    git clone https://github.com/amine1999henchi/Sorted_Employees.git
+
+## Run the script
+
+2. **run the script**:
+
+   ```bash
+    node SortedEmployees.js
