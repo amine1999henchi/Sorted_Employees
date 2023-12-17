@@ -9,6 +9,7 @@ This script is designed to read a list of employee codes from an input file, app
 2. **Sorting Algorithm**: The script uses a custom sorting algorithm that compares the first and last characters of each employee code, along with the numerical values between the first and last characters when needed.
 
 3. **Output File**: The sorted employee codes are then written to an output file specified in the script (`output.txt` by default).
+4. **Node version**: v18.18.0
 
 ## Usage
 
